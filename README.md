@@ -1,20 +1,30 @@
-# Uilab03
+# UILab Fun 03
 
-## Objectives
+<img src="http://www.lyricmode.com/i/bpictures/18096.jpg" alt="Drawing" style="width: 200px;"/>  
 
-1. Objective 1
-2. Objective 2.
+> Keep your face always toward the sunshine - and shadows will fall behind you. ~[Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)
 
-## Instructions
+## Learning Objectives - The student should be able to..
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
+* Complete this lab, solidifying what it is they know about this unit and ones prior.
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
+## What the student can do at this point 
 
-### Part 1: Do Some Stuff
+* Has a general overview of Xcode and is able to create a new project.
+* Knows where to locate the testing file within Xcode.
+* Knows how to navigate to Interface Builder.
+* Knows what a storyboard file is.
+* Has a brief overview of what the Object Library is.
+* Can drag a View Controller onto the canvas.
+* Can locate and drag items from the Object Library.
+* Can locate the Attributes Inspector and change the Background color of Views
+* They know how to connect the ViewController.swift file and understand its view life cycle.
+* Can hook up IBOutlets and IBActions.
+* Understands UIKit.
 
-## Resources
+## Outline / Notes
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+* This could be something similar to an Objective-C [lab](https://github.com/learn-co-curriculum/OOP-Cards-Simple-Views) which we can copy.
+* This is the final one of this unit. Could make it more difficult. I was thinking about having them make Blackjack which is something we do in the immersive course, but they don't know about classes yet and how to make custom objects so I don't see that as a viable option.
 
 <a href='https://learn.co/lessons/UILab03' data-visibility='hidden'>View this lesson on Learn.co</a>
