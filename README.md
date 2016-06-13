@@ -1,6 +1,6 @@
 # UILab Fun 03
 
-<img src="http://www.lyricmode.com/i/bpictures/18096.jpg" alt="Drawing" style="width: 200px;"/>  
+![Walt Whitman](images/walt_whitman.png)
 
 > Keep your face always toward the sunshine - and shadows will fall behind you. ~[Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)
 
