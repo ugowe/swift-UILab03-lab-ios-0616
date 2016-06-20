@@ -1,10 +1,10 @@
-# UILab Fun 03
+# UI Lab \#3: Cards
 
 ![Walt Whitman](images/walt_whitman.png)
 
 > Keep your face always toward the sunshine - and shadows will fall behind you. ~[Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)
 
-## Learning Objectives - The student should be able to..
+## Learning Objectives - The student should be able to...
 
 * Complete this lab, solidifying what it is they know about this unit and ones prior.
 
@@ -18,7 +18,7 @@
 * Can drag a View Controller onto the canvas.
 * Can locate and drag items from the Object Library.
 * Can locate the Attributes Inspector and change the Background color of Views
-* They know how to connect the ViewController.swift file and understand its view life cycle.
+* They know how to connect the `ViewController.swift` file and understand its view life cycle.
 * Can hook up IBOutlets and IBActions.
 * Understands UIKit.
 
