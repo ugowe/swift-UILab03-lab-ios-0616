@@ -1,4 +1,4 @@
-# UI Lab \#3: Cards
+# UI Lab: Cards
 
 ![Walt Whitman](images/walt_whitman.png)
 
