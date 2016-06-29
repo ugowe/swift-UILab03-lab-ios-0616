@@ -6,16 +6,7 @@
 
 ## Learning Objectives - The student should be able to...
 
-* Complete this lab, solidifying the following concepts:
-
-* Navigate to Interface Builder.
-* Knows what a storyboard file is.
-* Drag a View Controller onto the canvas.
-* Locate and drag items from the Object Library.
-* Locate the Attributes Inspector and change the Background color of Views
-* Connect the `ViewController.swift` file and understand its view life cycle.
-* Hook up IBOutlets and IBActions.
-* Understand UIKit.
+* Complete this lab
 
 ## Cards
 
