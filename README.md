@@ -1,12 +1,10 @@
 # UI Lab: Cards
 
-![Walt Whitman](images/walt_whitman.png)
+![Walt Whitman](http://i.imgur.com/4JxZdpR.png?1)
 
 > Keep your face always toward the sunshine - and shadows will fall behind you. ~[Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)
 
-## Learning Objectives - The student should be able to...
 
-* Complete this lab
 
 ## Cards
 
